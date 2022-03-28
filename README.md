@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hello, I'm Ayush Baral 👋
 
-<!--
-**2by-dev/2by-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-----------------------------------
 
-Here are some ideas to get you started:
+- 🧑‍💼 About me
+ 
+ My name is Ayush Baral. I am a bengali. I am in class 10 and front-web developer. I am founder of [Tech Junction](https://techjunction.online). I learned HTML, CSS, JS, CSS Framework and Some libary. I curently learning React.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔗 Social Media Links
+  
+  [Instagram](https://instagram.com/2bY.dev)
+  [Twitter](https://twitter.com/2bY_dev)
+  [Facebook](https://www.facebook.com/2bY.dev)
+
+
+- 📊 Github Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=2by-dev&show_icons=true&theme=dark)
+
+
+- 🖥️ Languages I Used
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/2by-dev/github-readme-stats)
+  
