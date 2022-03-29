@@ -33,3 +33,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2by-dev&repo=Resume-Website)](https://github.com/2by-dev/Resume-Website)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2by-dev&repo=mixhunt)](https://github.com/2by-dev/mixhunt)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2by-dev&repo=The-Central-Modern-School)](https://github.com/2by-dev/The-Central-Modern-School)
