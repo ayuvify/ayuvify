@@ -4,21 +4,19 @@
 
 - 🧑‍💼 About me :
  
- My name is Ayush Baral. I am a bengali. I am in class 10 and front-web developer. I am founder of [Tech Junction](https://techjunction.online). I learned HTML, CSS, JS, CSS Framework and Some libary. I curently learning React.
+ My name is Ayush Baral. I am a bengali. I am in class 10 and front-web developer. I learned HTML, CSS, JS, CSS Framework and Some libary. I curently learning React.
 
 
 - 🔗 Social Media Links :
   
-  + [Instagram](https://instagram.com/2bY.dev)
+  + [Instagram](https://instagram.com/2bycodec)
   
-  + [Twitter](https://twitter.com/2bY_dev)
-  
-  + [Facebook](https://www.facebook.com/2bY.dev)
+  + [Facebook](https://www.facebook.com/2bycodec)
 
 
 - 📊 Github Stats :
 
-![stats](https://github-readme-stats.vercel.app/api?username=2by-dev&show_icons=true&theme=dark)
+![stats](https://github-readme-stats.vercel.app/api?username=2bycodec&show_icons=true&theme=dark)
 
 
 - 🖥️ Languages I Used :
@@ -28,10 +26,8 @@
 
 - 📓 Repository :
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TechJunctionin&repo=TJ)](https://github.com/TechJunctionin/TJ)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2bycodec&repo=Resume-Website)](https://github.com/2bycodec/Resume-Website)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2by-dev&repo=Resume-Website)](https://github.com/2by-dev/Resume-Website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2bycodec&repo=mixhunt)](https://github.com/2bycodec/mixhunt)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2by-dev&repo=mixhunt)](https://github.com/2by-dev/mixhunt)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2by-dev&repo=The-Central-Modern-School)](https://github.com/2by-dev/The-Central-Modern-School)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2bycodec&repo=The-Central-Modern-School)](https://github.com/2bycodec/The-Central-Modern-School)
