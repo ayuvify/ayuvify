@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://2bycodec.github.io/Resume-Website/](https://2bycodec.github.io/Resume-Website/)
 
-- 💬 Ask me about **Java Script**
-
 - 📫 How to reach me **ayushbaral010@gmail.com**
 
 - ⚡ Fun fact **Looking to build a startup**
