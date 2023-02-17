@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://2bycodec.github.io/Resume-Website/](https://2bycodec.github.io/Resume-Website/)
 
-- 📫 How to reach me **ayushbaral010@gmail.com**
+- 📫 How to reach me **https://lnk.bio/2bycodec**
 
 - ⚡ Fun fact **Looking to build a startup**
 
