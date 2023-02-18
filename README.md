@@ -1,3 +1,5 @@
+<img src="https://github.com/2bycodec/2bycodec/blob/main/310924008_439606694939827_696982592737515324_n.png" alt="README md image"/>
+
 <h1 align="center">Hi 👋, I'm Ayush Baral (also known as 2bY)</h1>
 <h3 align="center">A passionate frontend web developer from West Bengal.</h3>
 
