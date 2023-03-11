@@ -1,5 +1,3 @@
-<img src="https://github.com/2bycodec/2bycodec/blob/main/310924008_439606694939827_696982592737515324_n.png" alt="README md image"/>
-
 <h1 align="center">Hi 👋, I'm Ayush Baral (also known as 2bY)</h1>
 <h3 align="center">A passionate frontend web developer from West Bengal.</h3>
 
@@ -7,14 +5,15 @@
 
 - 👨‍💻 All of my projects are available at [https://2bycodec.github.io/Resume-Website/](https://2bycodec.github.io/Resume-Website/)
 
-- 📫 How to reach me **https://lnk.bio/2bycodec**
+- 📫 How to reach me **ayushbaral010@gmail.com**
 
 - ⚡ Fun fact **Looking to build a startup**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/2bycodec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="2bycodec" height="30" width="40" /></a>
 <a href="https://instagram.com/2bycodec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="2bycodec" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@2bycodec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="2bycodec" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/2bycodec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="2bycodec" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
