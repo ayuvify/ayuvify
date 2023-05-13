@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Baral (also known as 2bY)</h1>
 <h3 align="center">A passionate frontend web developer from West Bengal.</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Go Lang**
 
 - 👨‍💻 All of my projects are available at [https://2bycodec.github.io/Resume-Website/](https://2bycodec.github.io/Resume-Website/)
 
