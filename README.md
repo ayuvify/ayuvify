@@ -1,6 +1,6 @@
 ## Hi I'm Ayush <img src="https://i.gifer.com/4AIB.gif" width="28px" height="28px" alt="hi">
 
-I'm Ayush Baral, a startup founder and full-stack web developer. At [Orgurix](https://orgurix.vercel.app/), I focus on building impactful, eco-friendly solutions and sharing insights on web development.
+I'm Ayush Baral, a startup founder and front-end web developer. At [Orgurix](https://orgurix.vercel.app/), I focus on building impactful, eco-friendly solutions and sharing insights on web development.
 
 **:link: Connect Me!**
 
