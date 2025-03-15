@@ -19,4 +19,4 @@ I'm Ayush Baral, a startup founder and front-end web developer. At [Orgurix](htt
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayuvify&show_icons=true&locale=en&layout=compact" alt="ayuvify" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ayuvify&" alt="ayuvify" /></p>
+<p><img align="left" src="https://streak-stats.demolab.com/?user=ayuvify" alt="ayuvify" /></p>
