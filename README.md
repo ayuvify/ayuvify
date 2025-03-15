@@ -4,7 +4,7 @@ I'm Ayush Baral, a startup founder and front-end web developer. At [Orgurix](htt
 
 **:link: Connect Me!**
 
-[![Twitter Badge](https://img.shields.io/badge/-@Cautcus-black?style=flat&labelColor=black&logo=x&logoColor=white&link=https://x.com/cautcus)](https://twitter.com/cautcus) [![Linkedin Badge](https://img.shields.io/badge/-cautcus-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cautcus/) [![Mail Badge](https://img.shields.io/badge/-@cautcus-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/cautcus) [![Mail Badge](https://img.shields.io/badge/-ayushbaral-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ayushbaral010@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@ayuvify-black?style=flat&labelColor=black&logo=x&logoColor=white&link=https://x.com/ayuvify)](https://twitter.com/ayuvify) [![Linkedin Badge](https://img.shields.io/badge/-ayuvify-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayuvify/) [![Mail Badge](https://img.shields.io/badge/-@ayuvify-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/ayuvify) [![Mail Badge](https://img.shields.io/badge/-ayushbaral-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ayushbaral010@gmail.com)
 
 **:keyboard: What I Do**
 
